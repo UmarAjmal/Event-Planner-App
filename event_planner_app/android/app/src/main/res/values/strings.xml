@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">844743400939058</string>
+    <string name="fb_login_protocol_scheme">fb844743400939058</string>
+    <string name="facebook_client_token">6b3198f3193f7b05daf2150ced2384ea</string>
+    <string name="app_name">"Event Planner App"</string>
+
+</resources>
+
+
